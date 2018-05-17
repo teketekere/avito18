@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# mysettings
+*.zip
+*.csv
+*.feather
+*.png
+*.html
+*.jpg
+
