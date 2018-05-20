@@ -110,4 +110,4 @@ venv.bak/
 *.png
 *.html
 *.jpg
-
+/.vs
